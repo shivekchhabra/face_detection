@@ -8,4 +8,5 @@ Simply downlaod requirements.txt and run face_detection.py.
 
 You may use your own xml file for a different object.
 
+![alt text](https://github.com/shivekchhabra/face_detection/blob/master/Output.png)
 
